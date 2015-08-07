@@ -1,0 +1,13 @@
+_build/*
+blib/*
+
+*.tmp
+
+configured
+
+wxWidgets-3.0.2
+wxWidgets-3.0.2.tar.bz2
+
+Build
+Build.bat
+MYMETA.yml
